@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/club/huangliang/servlet/HomeServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/new_words.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/admin/css/dtree.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/admin/css/left.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/admin/css/style.css" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,31 @@
+#navbar{
+	
+}
+#text-center{
+	text-align: center;
+	
+}
+#navbar-button{
+	left: 0.625rem;
+	background-color:#FFFFFF ;
+}
+/* 头像 */
+#navbar-brand{
+	padding: 0;
+	
+}
+#navbar-brand li{
+	font-size:14px;
+	padding: 10px;
+	text-align: center;
+}
+#img-head{
+	width:38px ;
+	height:38px;
+	border:solid 0.0625rem grey;
+	
+}
+#dropdownMenu1{
+	background-color:#f8f8f8;
+	 z-index: 1000;
+}
